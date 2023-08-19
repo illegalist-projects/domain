@@ -1,6 +1,7 @@
 {
   "api": "appis.illegalist.tech",
   "main": "illegalist.tech",
+  "updatedom": "update.illegalist.tech",
   "checker": "checker.illegalist.tech",
   "appmessage": "İLLEGALİST CLİ! HOŞ GELDİNİZ",
   "update": 0
